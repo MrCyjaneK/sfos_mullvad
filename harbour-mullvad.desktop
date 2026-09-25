@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=harbour-mullvad
+Exec=harbour-mullvad
+Name=Mullvad
+Name[en]=Mullvad
+
+[X-Sailjail]
+OrganizationName=net.mullvad
+ApplicationName=mullvad
+Permissions=Internet
+Sandboxing=Disabled

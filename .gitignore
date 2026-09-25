@@ -1,0 +1,8 @@
+*.o
+*.list
+moc_*.cpp
+*.rpm
+Makefile
+harbour-mullvad
+harbour-mullvad-tunnel
+harbour-mullvad-vpn
